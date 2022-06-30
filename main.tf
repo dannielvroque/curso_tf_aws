@@ -25,3 +25,6 @@ resource "aws_s3_bucket" "bucket-tf-danniel" {
     Environment = "Dev"
   }
 }
+
+
+############# teste danniel, 123
